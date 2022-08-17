@@ -1,5 +1,12 @@
 # Serverless - AWS Node.js Typescript
 
+Test if everything works with AWS's recent support for Node.js 16:
+https://github.com/aws/aws-lambda-base-images/issues/14
+https://aws.amazon.com/about-aws/whats-new/2022/05/aws-lambda-adds-support-node-js-16/
+
+Existing examples have not been updated to nodejs16.x runtime:
+https://github.com/serverless/examples
+
 This project has been generated using the `aws-nodejs-typescript` template from the [Serverless framework](https://www.serverless.com/).
 
 For detailed instructions, please refer to the [documentation](https://www.serverless.com/framework/docs/providers/aws/).
